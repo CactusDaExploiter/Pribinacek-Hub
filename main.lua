@@ -1,7 +1,7 @@
 -- Universal Pribinacek Hub Loader
 local gameId = game.GameId
 
-if gameId == 7711635737 then
+if gameId == 2992873140 then
     -- Eternal Hamburg (EH)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CactusDaExploiter/Pribinacek-Hub/refs/heads/main/EH.lua"))()
 elseif gameId == 6331902150 then
