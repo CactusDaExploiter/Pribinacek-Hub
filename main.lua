@@ -4,7 +4,7 @@ local gameId = game.GameId
 if gameId == 7711635737 then
     -- Eternal Hamburg (EH)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CactusDaExploiter/Pribinacek-Hub/refs/heads/main/EH.lua"))()
-elseif gameId == 18687417158 then
+elseif gameId == 6331902150 then
     -- Forsaken
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CactusDaExploiter/Pribinacek-Hub/refs/heads/main/Forsaken.lua"))()
 else
